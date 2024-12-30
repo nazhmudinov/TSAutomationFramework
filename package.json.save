@@ -1,0 +1,74 @@
+{
+  "name": "my-playwright-project",
+  "version": "1.0.0",
+  "description": "End-to-end tests using Playwright",
+  "author": "Your Name <your.email@example.com>",
+  "license": "ISC",
+  "scripts": {
+    "test": "npx playwright test",
+    "test:ui": "npx playwright test --ui",
+    "test:headed": "npx playwright test --headed",
+    "test:debug": "npx playwright test --debug",
+    "test:report": "npx playwright show-report" // To open the HTML report
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.30.0", // Or latest version
+    "@types/node": "^20.0.0",     // Or latest compatible version
+    "typescript": "^5.0.0"         // Or latest version
+  }
+}{
+  "name": "my-playwright-project",
+  "version": "1.0.0",
+  "description": "End-to-end tests using Playwright",
+  "author": "Siyavush  snajmudinov@gmail.com",
+  "license": "ISC",
+  "scripts": {
+    "test": "npx playwright test",
+    "test:ui": "npx playwright test --ui",
+    "test:headed": "npx playwright test --headed",
+    "test:debug": "npx playwright test --debug",
+    "test:report": "npx playwright show-report" // To open the HTML report
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.30.0", // Or latest version
+    "@types/node": "^20.0.0",     // Or latest compatible version
+    "typescript": "^5.0.0"         // Or latest version
+  }
+}{
+  "name": "my-playwright-project",
+  "version": "1.0.0",
+  "description": "End-to-end tests using Playwright",
+  "author": "Your Name <your.email@example.com>",
+  "license": "ISC",
+  "scripts": {
+    "test": "npx playwright test",
+    "test:ui": "npx playwright test --ui",
+    "test:headed": "npx playwright test --headed",
+    "test:debug": "npx playwright test --debug",
+    "test:report": "npx playwright show-report" // To open the HTML report
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.30.0", // Or latest version
+    "@types/node": "^20.0.0",     // Or latest compatible version
+    "typescript": "^5.0.0"         // Or latest version
+  }
+}{
+  "name": "playwright-ts-framework",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "npx playwright test",
+    "test:ui": "npx playwright test --ui",
+    "test:headed": "npx playwright test --headed",
+    "test:debug": "npx playwright test --debug",
+    "test:report": "npx playwright show-report" // To open the HTML report
+  },
+  "keywords": [],
+  "author": "Siyavush snajmudinov@gmail.com",
+  "license": "ISC",
+  "description": "End-to-end tests usinaywright",
+
+
+    "@playwright/test": 
+
+
+

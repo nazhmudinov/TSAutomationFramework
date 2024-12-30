@@ -1,0 +1,21 @@
+{
+  "name": "my_playwright-ts-framework",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "npx playwright test",
+    "test:ui": "npx playwright test --ui",
+    "test:headed": "npx playwright test --headed",
+    "test:debug": "npx playwright test --debug",
+    "test:report": "npx playwright show-report"
+  },
+  "keywords": [],
+  "author": "Siyavush snajmudinov@gmail.com",
+  "license": "ISC",
+  "description": "End-to end tests using Playwright",
+  "devDependencies": {
+    "@playwright/test": "^1.49.1",
+    "@types/node": "^22.10.2",
+    "playwright": "^1.49.1",
+    "typescript": "^5.7.2"
+  }
+}
