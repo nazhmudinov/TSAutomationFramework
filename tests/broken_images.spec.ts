@@ -3,9 +3,6 @@ import {test, Locator} from '@playwright/test';
 test('Broken Images', async ({ page }) => {
     await page.goto('https://the-internet.herokuapp.com/broken_images');
 
-    // Wait for images to load 
-    await page.waitForLoadState('domcontentloaded');
-
     // Get the list of all images and their src attributes
     const images : Locator = page.locator('img');
     const imageSrcs: Array<string | null> = await images.evaluateAll((imgs) => {
